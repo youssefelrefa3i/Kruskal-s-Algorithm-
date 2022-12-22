@@ -2,9 +2,6 @@
 
 namespace Kruskal
 {
-	class Program
-	{
-		
 
 		class Graph
 		{
@@ -153,6 +150,5 @@ namespace Kruskal
 			}
 		}
 	}
-}
 
 
